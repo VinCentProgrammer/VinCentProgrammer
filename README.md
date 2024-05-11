@@ -58,8 +58,3 @@
 </div>
 
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="1000" height="" alt="Kenah.com" />
-</a>
-
