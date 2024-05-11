@@ -1,11 +1,11 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img height="500" src="svg/trungquandev.svg" width="1200" alt="dungkendev-official" />
+  <img height="600" src="svg/trungquandev.svg" width="1200" alt="dungkendev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<div align="center" width="500"> 
+<div align="center"> 
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp; 
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/dungdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="dungkendev-linkedin" />
   </a>
-  <a href="https://instagram.com/dundun_401221" target="blank">
+  <a href="https://instagram.com/the.ken.dunn" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dungken-instagram" />
   </a>
 </div>
